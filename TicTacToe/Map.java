@@ -6,7 +6,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.Random;
 
-import static ru.vasileck.MyWindow.jpPlace;
+import static TicTacToe.MyWindow.jpPlace;
 
 public class Map extends JPanel {
     private int SIZE;

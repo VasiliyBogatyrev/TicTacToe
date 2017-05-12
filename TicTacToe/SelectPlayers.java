@@ -8,7 +8,7 @@ import java.awt.event.ActionListener;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 
-import static ru.vasileck.MyWindow.numberOfTurnsToWin;
+import static TicTacToe.MyWindow.numberOfTurnsToWin;
 
 public class SelectPlayers extends JPanel {
     private JRadioButton playerVsPlayer = new JRadioButton("Игрок против игрока");
